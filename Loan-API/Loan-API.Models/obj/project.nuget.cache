@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4q6Co1ts0Kcj3II92/swnQBRxYQAR9ANJA8JtUnzJw7z1Ay4hTX+xzZAjRfFZr8NTazwMV25TS4VF+NCyBHJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\achig\\source\\repos\\final project\\Loan-API\\Loan-API.Models\\Loan-API.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\achig\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\nlog.database\\5.0.1\\nlog.database.5.0.1.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\nlog.extensions.logging\\5.0.1\\nlog.extensions.logging.5.0.1.nupkg.sha512",
+    "C:\\Users\\achig\\.nuget\\packages\\nlog.web.aspnetcore\\5.0.0\\nlog.web.aspnetcore.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
